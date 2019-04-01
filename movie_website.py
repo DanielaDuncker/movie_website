@@ -33,3 +33,4 @@ school_of_rock = media.Movie("School of Rock", "Using rock music to learn",
 
 movies = [toy_story, avatar, harry_potter, ratatouille, midnight_in_paris, school_of_rock]
 fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.VALID_RATINGS)
